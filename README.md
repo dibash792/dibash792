@@ -1,43 +1,104 @@
+ <!-- README.md -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,45:2563EB,100:9333EA&height=220&section=header&text=MR.%20DIBASH&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20REALITY&descAlignY=60&descSize=16" width="100%" />
+
 # Hi 👋, I'm Dibash Lamichhane
 
-### Student Builder | Aspiring Entrepreneur | Tech Enthusiast | Lifelong Learner
+### Student Builder · Aspiring Entrepreneur · Tech Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibash792&label=Profile views&color=0e75b6&style=flat" alt="dibash792" /> </p>
+*Turning ideas into projects, learning through building, and exploring the intersection of technology and creativity.*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibash792" alt="dibash792" /></a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub- dibash792-181717?style=for-the-badge&logo=github)](https://github.com/dibash792)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dibash-lamichhane-47871b434)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel)](https://mrdibash.vercel.app/)
 
-- 🔭 I'm currently working on **ROLLX – Building an indoor quad skating experience in Lalbandi, Nepal.**
+![Profile Views](https://komarev.com/ghpvc/?username=dibash792&label=PROFILE+VIEWS&color=2563EB&style=flat-square)
 
-- 🌱 I'm currently learning **Advanced Web Development, Python, Artificial Intelligence, Machine Learning, and Software Development.**
+</div>
 
-- 👯 I'm looking to collaborate on **Student-led tech projects, educational technology, STEM initiatives, and innovative ideas that solve real-world problems.**
+---
 
-- 🤝 I'm looking for help with **Building better web applications, improving my software development skills, and turning innovative ideas into practical products.**
+## 🚀 About Me
 
-- 💬 Ask me about **Mathematics, Teaching, Technology, AI Tools, Entrepreneurship, STEM Activities, Leadership, Personal Development and Spiritality.**
+- 🔭 Building **ROLLX** — an indoor quad skating experience in Lalbandi, Nepal.
+- 🌱 Learning **Web Development, Python, AI/ML fundamentals, and Software Development**.
+- 👯 Interested in collaborating on student-led tech projects, STEM initiatives, and educational technology.
+- 💡 Exploring entrepreneurship, mathematics, teaching, leadership, and spirituality.
+- ✍️ Documenting ideas and personal experiences through writing.
+- 📫 Reach me at **dibaslamichhane04@gmail.com**.
 
-- 📫 How to reach me **dibaslamichhane04@gmail.com**
+> ⚡ I have a habit of turning almost every idea into a project — from tech products and business concepts to STEM events, teaching, and writing about my teenage experiences.
 
-- ⚡ Fun fact **I have a habit of turning almost every idea into a project from building businesses and tech products to teaching and writing about my teenage experiences.**
+## 📊 GitHub Analytics
 
-- 👨‍💻 All of my projects are available at **[https://mrdibash.vercel.app/](https://mrdibash.vercel.app/)**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/dibash792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dibash792" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/dibash-lamichhane-47871b434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dibash-lamichhane-47871b434" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dibash.lamichhane.429847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dibash.lamichhane.429847" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dibash.lamichhane1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dibash.lamichhane1/" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@MR-DibashYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@MR-DibashYT" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/dibash792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dibash792/" height="30" width="40" /></a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dibash792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=dibash792&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibash792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibash792&show_icons=true&locale=en&layout=compact" alt="dibash792" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibash792&show_icons=true&locale=en" alt="dibash792" /></p>
+## 📈 Contribution Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibash792&" alt="dibash792" /></p>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dibash792&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## ⭐ Star Growth
+
+<div align="center">
+
+<img src="https://api.star-history.com/svg?repos=dibash792/RollX,dibash792/Portfolio&type=Date&theme=dark" width="100%" />
+
+</div>
+
+## 🎮 Contribution Arcade
+
+<div align="center">
+
+**A custom Among Us crewmate contribution animation is planned here.**
+
+</div>
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,blender&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dibash792/RollX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dibash792&repo=RollX&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/dibash792/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dibash792&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dibash792)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibash-lamichhane-47871b434)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibaslamichhane04@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:2563EB,100:10172A&height=100&section=footer" width="100%" />
+
+**"Build. Learn. Experiment. Repeat."**
+
+</div>
